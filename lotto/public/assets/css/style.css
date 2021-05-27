@@ -1,0 +1,64 @@
+
+.content{
+  text-align: center;
+  font-family: sans-serif;
+  color: green;
+  width: 230px;
+}
+.gb-color{
+  background-color: #DCDCDC;
+  justify-content: center;
+  width: 1110px;
+  height: 156px;
+  
+}
+.content-danger{
+  text-align: center;
+  font-family: sans-serif;
+  color: red;
+  width: 230px;
+}
+.select-size{
+  width: 30%;
+}
+body{
+  background-color: #f1f1f1;
+}
+.DivbuttomBorder {
+  border-bottom: #dee2e6 solid 1px;
+}
+
+.grid-container {
+display: grid;
+grid-template-columns: auto auto auto auto;
+/* background-color: #2196F3; */
+padding: 10px;
+
+}
+
+.grid-container2 {
+display: grid;
+grid-template-columns: auto auto auto;
+/* background-color: #2196F3; */
+padding: 10px;
+}
+
+.grid-item {
+/* background-color: rgba(255, 255, 255, 0.8);
+border: 1px solid rgba(0, 0, 0, 0.8);
+padding: 20px;
+font-size: 30px; */
+text-align: center;
+}
+.hiddenClass{
+display: none;
+}
+.alight-center{
+text-align: center;
+}
+.font-red{
+color: #ed501e;
+}
+.SetColer{
+background-color: #f1f1f1;
+}
