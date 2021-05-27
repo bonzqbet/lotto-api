@@ -12,37 +12,37 @@ composer require laravel/ui
   "response":{   <br>
     "date":"30 ธันวาคม 2561", <br>
     "endpoint":"https://news.sanook.com/lotto/check/30122561/", <br>
-    "prizes":[  
-      {  
-        "id":"prizeFirst",
-        "name":"รางวัลที่ 1",
-        "reward":"6000000",
-        "amount":1,
-        "number":[  
-          "735867"
-        ]
-      },
-      {  
-        "id":"prizeFirstNear",
-        "name":"รางวัลข้างเคียงรางวัลที่ 1",
-        "reward":"100000",
-        "amount":2,
-        "number":[  
-          "735866",
-          "735868"
-        ]
-      },
-      {  
-        "id":"prizeSecond",
-        "name":"รางวัลที่ 2",
-        "reward":"200000",
-        "amount":5,
-        "number":[  
-          "031880",
-          "466182",
-          "548097",
-          "838262",
-          "990824"
+    "prizes":[  <br>
+      {  <br>
+        "id":"prizeFirst",<br>
+        "name":"รางวัลที่ 1",<br>
+        "reward":"6000000",<br>
+        "amount":1,<br>
+        "number":[  <br>
+          "735867"<br>
+        ]<br>
+      },<br>
+      {  <br>
+        "id":"prizeFirstNear",<br>
+        "name":"รางวัลข้างเคียงรางวัลที่ 1",<br>
+        "reward":"100000",<br>
+        "amount":2,<br>
+        "number":[  <br><br>
+          "735866",<br>
+          "735868"<br>
+        ]<br>
+      },<br>
+      {  <br>
+        "id":"prizeSecond",<br>
+        "name":"รางวัลที่ 2",<br>
+        "reward":"200000",<br>
+        "amount":5,<br>
+        "number":[  <br><br>
+          "031880",<br>
+          "466182",<br>
+          "548097",<br>
+          "838262",<br>
+          "990824"<br>
         ]
       },
       {  
