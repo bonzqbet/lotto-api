@@ -13,8 +13,8 @@ The API is based on HTTPS requests and JSON responses. The stable HTTPS endpoint
 
 <details>
 <summary>Libary</summary>
-<br> -Jquery
-<br> -Goutte
+<br> - Jquery
+<br> - Goutte
 
 </details>
 
