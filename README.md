@@ -1,4 +1,4 @@
-#Goutte, PHP Web Scraper lotto-API
+# Goutte, PHP Web Scraper lotto-API
 
 # use command
 
