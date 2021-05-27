@@ -10,3 +10,12 @@ composer require laravel/ui
 The API is based on HTTPS requests and JSON responses. The stable HTTPS endpoint: https://news.sanook.com/lotto/
 
 </details>
+
+<details>
+<summary>Libary</summary>
+<br>
+Jquery
+  <br>
+Goutte
+
+</details>
