@@ -7,11 +7,11 @@ composer require laravel/ui
 <details>
 <summary>JSON API</summary>
 <br>
-{  
-  "status":"success",
-  "response":{  
-    "date":"30 ธันวาคม 2561",
-    "endpoint":"https://news.sanook.com/lotto/check/30122561/",
+{  <br>
+  "status":"success", <br>
+  "response":{   <br>
+    "date":"30 ธันวาคม 2561", <br>
+    "endpoint":"https://news.sanook.com/lotto/check/30122561/", <br>
     "prizes":[  
       {  
         "id":"prizeFirst",
