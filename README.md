@@ -17,3 +17,11 @@ The API is based on HTTPS requests and JSON responses. The stable HTTPS endpoint
 <br> -Goutte
 
 </details>
+
+# รายละเอียดโปรแกรม
+
+  - เลือกวันที่ต้องการตรวจสอบสลากฯ ได้
+  - ตรวจสลากฯ ได้สูง 3 ใบ
+  - แสดงผลตรวจผลสลากฯ
+  - แสดงผลสลากฯ ทั้งหมดตามวันที่เลือก
+  - แสดง API ตัวอย่าง
