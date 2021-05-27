@@ -7,6 +7,6 @@ composer require laravel/ui
 <details>
 <summary>JSON API</summary>
 <br>
-The API is based on HTTPS requests and JSON responses. The stable HTTPS endpoint for the latest version is: https://news.sanook.com/lotto/
+The API is based on HTTPS requests and JSON responses. The stable HTTPS endpoint: https://news.sanook.com/lotto/
 
 </details>
