@@ -4,6 +4,11 @@
 
 composer require laravel/ui
 
+# set file
+
+สร้างไฟล์ .env extends .env.example
+
+
 <details>
 <summary>JSON API</summary>
 <br>
