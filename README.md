@@ -1,5 +1,5 @@
 # Goutte, PHP Web Scraper lotto-API
-example : https://frozen-lake-31472.herokuapp.com/
+ทดลอง : https://frozen-lake-31472.herokuapp.com/
 # use command
 
 composer require laravel/ui
