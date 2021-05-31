@@ -1,4 +1,6 @@
 # Goutte, PHP Web Scraper lotto-API
+เว็บตรวจสอบหวยใช้เทคโนโลยี Web Scraper ในการตรวจจับและสร้าง API
+
 ทดลอง : https://frozen-lake-31472.herokuapp.com/
 # use command
 
